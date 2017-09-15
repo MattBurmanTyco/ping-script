@@ -1,0 +1,2 @@
+# ping-script
+ping script 
